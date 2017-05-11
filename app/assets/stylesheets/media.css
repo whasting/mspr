@@ -1,0 +1,43 @@
+@media only screen and (max-width: 1130px) {
+  .pets {
+    width: 553px;
+  }
+
+  .icon-container {
+    width: 600px;
+  }
+
+  .hero-text {
+    font-size: 40px;
+  }
+}
+
+@media only screen and (max-width: 1030px) {
+  .nav-item {
+    display: none;
+  }
+
+  .hamburger {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 598px) {
+  .pets {
+    width: 100%;
+    padding: 0 0 40px 0;
+  }
+
+  .icon-container {
+    width: 100%;
+  }
+
+  .mini-about-text {
+    padding: 0 75px;
+
+  }
+
+  .hero-text {
+    font-size: 36px;
+  }
+}

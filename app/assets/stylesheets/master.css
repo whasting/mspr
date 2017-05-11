@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+}
+
+[data-reactroot] {
+  height: 100%;
+}
+
+.splash-container, .splash {
+  height: 100%;
+}
+
+.view-port {
+  height: 100%;
+}
